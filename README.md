@@ -43,8 +43,8 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 - **Comunicación Visual:** Creación de dashboards e informes ejecutivos orientados a toma de decisiones.
   
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/yanela-hidalgo/) 
-- [Email](yanela.data@gmail.com)
+- 💼 **LinkedIn:** [Yanela Hidalgo Suárez](https://www.linkedin.com/in/yanela-hidalgo/) 
+- ✉️ **Email:** yanela.data@gmail.com
 
   ⚡ *Creatividad + datos = soluciones de impacto*
 <!--
