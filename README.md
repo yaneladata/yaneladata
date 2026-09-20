@@ -13,6 +13,7 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 ### 🛍️ [Mercado Libre – Análisis de Conversión y Retención](https://github.com/yaneladata/mercadolibre-embudo-y-retencion)
 * **Descripción:** Análisis del embudo de conversión y comportamiento de retención de usuarios.
 * **Enfoque:** Identificación de puntos de fricción en el checkout y optimización de tasa de conversión.
+* **Entregable:** Informe de análisis ejecutivo con recomendaciones estratégicas de optimización de conversión.
 * **Tecnologías:** Google Sheets / Excel
 
 ### 📦 [RappiPlus – Eficiencia Operativa y Retención](https://github.com/yaneladata/rappiplus-analisis-ecommerce)
