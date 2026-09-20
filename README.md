@@ -18,11 +18,13 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 ### 📦 [RappiPlus – Eficiencia Operativa y Retención](https://github.com/yaneladata/rappiplus-analisis-ecommerce)
 * **Descripción:** Modelado de datos de entregas y suscripciones premium.
 * **Enfoque:** Análisis de tiempos de entrega, patrones de pedido y propuesta de optimización de rutas para clientes premium.
+* **Entregable:** Dashboard interactivo en Tableau + Análisis exploratorio y limpieza en Python.
 * **Tecnologías:** Python, SQL, Tableau
 
 ### 🏔️ [AndesRetail – Desempeño Comercial Regional](https://github.com/yaneladata/andes-retail-desempeno-comercial)
 * **Descripción:** Visualización y análisis de tendencias de consumo en retail regional.
 * **Enfoque:** Evaluación del rendimiento por categorías y regiones para definir estrategias de crecimiento local.
+* **Entregables:** Dashboard interactivo de control de ventas e indicadores en Tableau + Pipeline de procesamiento de datos en Python.
 * **Tecnologías:** Python, Tableau
 
 ---
