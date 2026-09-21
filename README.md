@@ -42,9 +42,9 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 
 ## 🌟 Valor que Aporto
 
-- **Rigor Metodológico:** Aplicación de pruebas estadísticas para validar hipótesis sin asumir causalidades falsas.
-- **Enfoque de Negocio:** Traducción de métricas técnicas a decisiones accionables (Conversión, Churn, CAC, LTV).
-- **Comunicación Visual:** Creación de dashboards e informes ejecutivos orientados a toma de decisiones.
+* **Enfoque de Negocio & Unit Economics:** Traducción de métricas operativas y transaccionales en decisiones accionables para proteger el margen, optimizar la conversión y reducir el churn.
+* **Rigor Metodológico & Analítico:** Aplicación de pruebas estadísticas, modelos de cohortes y análisis de embudo para validar hipótesis sin asumir falsas causalidades.
+* **Comunicación Visual & Ejecutiva:** Construcción de dashboards interactivos e informes estratégicos orientados a la toma de decisiones rápidas por parte de líderes de negocio.
   
 ## 📫 Contacto
 - 💼 **LinkedIn:** [Yanela Hidalgo Suárez](https://www.linkedin.com/in/yanela-hidalgo/) 
