@@ -27,7 +27,7 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 ### 🏔️ [AndesRetail – Desempeño Comercial Regional](https://github.com/yaneladata/andes-retail-desempeno-comercial)
 * **Descripción:** Visualización y análisis de tendencias de consumo en retail regional.
 * **Enfoque:** Evaluación del rendimiento por categorías y regiones para definir estrategias de crecimiento local.
-* **Entregables:** Dashboard interactivo de control de ventas e indicadores en Tableau + Pipeline de procesamiento de datos en Python.
+* **Entregable:** Dashboard interactivo de control de ventas e indicadores en Tableau + Pipeline de procesamiento de datos en Python.
 * **Tecnologías:** Python, Tableau
 * **Impacto:**  Optimización del control de ventas regional e identificación de patrones de consumo para expansión comercial.
 ---
