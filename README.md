@@ -34,11 +34,10 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 
 ## 📂 Otros Proyectos Destacados
 
-* 📊 **[NovaRetail – Drivers de Comportamiento e Ingreso](https://github.com/yaneladata/novaretail-drivers-comportamiento):** Análisis correlacional multivariable para identificar variables de comportamiento asociadas al ingreso anual, distinguiendo correlación de causalidad.  *(Python)*
-* 🧪 **[Experimentos A/B – Optimización Digital](https://github.com/yaneladata/landing-page-experimento-ab):** Diseño y evaluación estadística de pruebas A/B para medir el impacto de cambios en la experiencia de usuario. *(Python)*
-* 📱 **[Telecomunicaciones – Análisis de Churn](https://github.com/yaneladata/connectatel-comportamiento-telecom):** Estudio de la tasa de abandono de clientes, segmentación y detección de patrones de riesgo para retención. *(Python)*
-* 🚦 **[Movilidad Urbana – Integración y Análisis de Datos](https://github.com/yaneladata/movilidad-urbana-productividad-adb):** Consolidades y análisis de datos de transporte urbano para optimizar flujo y recursos en la ciudad. *(Python)*
-
+* 📊 **[NovaRetail – Drivers de Comportamiento e Ingreso](https://github.com/yaneladata/novaretail-drivers-comportamiento):** Análisis correlacional multivariable en Python para identificar las variables operativas y de cliente con mayor impacto en el ingreso anual, diferenciando correlación de causalidad.
+* 🧪 **[Experimentos A/B – Optimización Digital](https://github.com/yaneladata/landing-page-experimento-ab):** Diseño, ejecución y evaluación estadística de pruebas A/B en Python para medir el impacto de cambios en la interfaz sobre la tasa de conversión y la experiencia de usuario.
+* 📱 **[Telecomunicaciones – Análisis de Churn](https://github.com/yaneladata/connectatel-comportamiento-telecom):** Modelo exploratorio para la medición de la tasa de abandono de clientes, segmentación por nivel de riesgo y detección de patrones tempranos de cancelación mediante Python.
+* 🚦 **[Movilidad Urbana – Integración y Análisis de Datos](https://github.com/yaneladata/movilidad-urbana-productividad-adb):** Consolidación de pipelines de datos y análisis exploratorio del transporte urbano en Python para optimizar la asignación de flujos y recursos en la ciudad.
 ---
 
 ## 🌟 Valor que Aporto
