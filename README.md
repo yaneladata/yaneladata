@@ -11,23 +11,25 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 ## 🚀 Proyectos Principales
 
 ### 🛍️ [Mercado Libre – Análisis de Conversión y Retención](https://github.com/yaneladata/mercadolibre-embudo-y-retencion)
-* **Descripción:** Análisis del embudo de conversión y comportamiento de retención de usuarios.
-* **Enfoque:** Identificación de puntos de fricción en el checkout y optimización de tasa de conversión.
-* **Entregable:** Informe de análisis ejecutivo con recomendaciones estratégicas de optimización de conversión.
+* **Descripción:** Análisis del embudo de conversión a nivel geográfico y comportamiento de retención de usuarios.
+* **Enfoque:** Identificación de puntos de fricción en el checkout y optimización de la tasa de conversión.
+* **Entregable:** Informe de análisis ejecutivo con recomendaciones estratégicas + Queries de análisis transaccional.
 * **Tecnologías:** Google Sheets / Excel
+* **Impacto:** Detección de 65.89 puntos porcentuales de abandono en la fase "Agregar al Carrito", priorizando mejoras de conversión.
 
 ### 📦 [RappiPlus: Análisis de Rentabilidad, Conversión y Retención](https://github.com/yaneladata/rappiplus-analisis-ecommerce)
-* **Descripción:** Auditoría transaccional de e-commerce enfocada en identificar pérdidas financieras por inconsistencias de pricing, detectar fricciones críticas en la pasarela de pago (checkout) y mapear patrones de abandono temprano de usuarios.
-* **Enfoque:** Análisis de tiempos de entrega, patrones de pedido y propuesta de optimización de rutas para clientes premium.
+* **Descripción:** Auditoría transaccional de e-commerce enfocada en identificar pérdidas financieras por inconsistencias de pricing, detectar fricciones en la pasarela de pago y mapear patrones de abandono.
+* **Enfoque:** Identificación de margen negativo por productos vendida por debajo de su costo , fuga en pasarela de pago y patrones de retención de usuarios.
 * **Entregable:** Dashboard interactivo en Tableau + Análisis exploratorio y limpieza en Python.
 * **Tecnologías:** Python, SQL, Tableau
+* **Impacto:** Identificación de $300K USD en pérdidas por margen y 60% de abandono en la fase de pago.
 
 ### 🏔️ [AndesRetail – Desempeño Comercial Regional](https://github.com/yaneladata/andes-retail-desempeno-comercial)
 * **Descripción:** Visualización y análisis de tendencias de consumo en retail regional.
 * **Enfoque:** Evaluación del rendimiento por categorías y regiones para definir estrategias de crecimiento local.
 * **Entregables:** Dashboard interactivo de control de ventas e indicadores en Tableau + Pipeline de procesamiento de datos en Python.
 * **Tecnologías:** Python, Tableau
-
+* **Impacto:**  Optimización del control de ventas regional e identificación de patrones de consumo para expansión comercial.
 ---
 
 ## 📂 Otros Proyectos Destacados
