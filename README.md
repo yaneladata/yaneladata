@@ -16,7 +16,7 @@ Transformo datos complejos en **insights estratégicos** que optimizan la toma d
 * **Entregable:** Informe de análisis ejecutivo con recomendaciones estratégicas de optimización de conversión.
 * **Tecnologías:** Google Sheets / Excel
 
-### 📦 [RappiPlus – Eficiencia Operativa y Retención](https://github.com/yaneladata/rappiplus-analisis-ecommerce)
+### 📦 [RappiPlus: Análisis de Rentabilidad, Conversión y Retención](https://github.com/yaneladata/rappiplus-analisis-ecommerce)
 * **Descripción:** Auditoría transaccional de e-commerce enfocada en identificar pérdidas financieras por inconsistencias de pricing, detectar fricciones críticas en la pasarela de pago (checkout) y mapear patrones de abandono temprano de usuarios.
 * **Enfoque:** Análisis de tiempos de entrega, patrones de pedido y propuesta de optimización de rutas para clientes premium.
 * **Entregable:** Dashboard interactivo en Tableau + Análisis exploratorio y limpieza en Python.
