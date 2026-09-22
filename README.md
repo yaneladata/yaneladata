@@ -1,4 +1,5 @@
 # 👩‍💻 Yanela Hidalgo Suárez
+<img align="right" width="280" height="280" alt="giphy" src="https://github.com/user-attachments/assets/2066f16f-5b29-4ab0-a415-a68f310b3b7f" />
 
 # 📊 Analista de Datos
 
