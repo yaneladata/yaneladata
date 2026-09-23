@@ -5,7 +5,8 @@
 
 Transformo datos operativos en rentabilidad y eficiencia mediante análisis transaccional y visualización ejecutiva para e-commerce, retail y servicios.
 
-**Herramientas principales:** Python (`pandas`, `scipy`, `seaborn`, `matplotlib`,`numpy`) · SQL · Tableau · Power BI · Excel / Google Sheets
+**Herramientas principales:** Python (`pandas`, `scipy`, `seaborn`, `matplotlib`,`numpy`) 
+· SQL · Tableau · Power BI · Excel / Google Sheets
 
 ---
 
