@@ -3,7 +3,7 @@
 
 # 📊 Analista de Datos
 
-Transformo datos complejos en **insights estratégicos** que optimizan la toma de decisiones en **e-commerce, retail y logística**.
+Transformo datos operativos en rentabilidad y eficiencia mediante análisis transaccional y visualización ejecutiva para e-commerce, retail y servicios.
 
 **Herramientas principales:** Python (`pandas`, `scipy`, `seaborn`, `matplotlib`,`numpy`) · SQL · Tableau · Power BI · Excel / Google Sheets
 
