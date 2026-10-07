@@ -20,7 +20,7 @@ Transformo datos operativos en rentabilidad y eficiencia mediante análisis tran
 * **Impacto:** Detección de 65.89 puntos porcentuales de abandono en la fase "Agregar al Carrito", priorizando mejoras de conversión.
 
 ### 📦 [RappiPlus: Análisis de Rentabilidad, Conversión y Retención](https://github.com/yaneladata/rappiplus-analisis-ecommerce)
-* **Descripción:** Auditoría transaccional de e-commerce enfocada en identificar pérdidas financieras por inconsistencias de pricing, detectar fricciones en la pasarela de pago y mapear patrones de abandono.
+* **Descripción:** Evaluación de la calidad de los datos,en identificar pérdidas financieras por inconsistencias de pricing, detectar fricciones en la pasarela de pago y mapear patrones de abandono.
 * **Enfoque:** Identificación de margen negativo por productos vendida por debajo de su costo , fuga en pasarela de pago y patrones de retención de usuarios.
 * **Entregable:** Dashboard interactivo en Tableau + Análisis exploratorio y limpieza en Python.
 * **Tecnologías:** Python, SQL, Tableau
